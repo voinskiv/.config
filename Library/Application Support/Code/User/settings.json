@@ -1,0 +1,5 @@
+{
+  "editor.tabSize": 2,
+  "update.mode": "manual",
+  "editor.rulers": [80,100]
+}
